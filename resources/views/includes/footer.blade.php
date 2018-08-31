@@ -1,0 +1,1 @@
+<div id="copyright text-right">© Copyright 2013 V12Software EveryCarOnline California</div>

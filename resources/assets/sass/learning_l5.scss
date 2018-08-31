@@ -1,0 +1,19 @@
+header{
+	margin-top: 10px;
+}
+header > .nav > li:hover{
+    background-color:#fff;
+    color: #fcc;
+}
+.sidenav{
+	border: 1px solid #DCDCDC;
+	border-radius: 5px;
+}
+.footer {
+    width: 100%;
+    background-color: #D3D3D3;
+    color: #696969;
+    text-align: center;
+    font-weight: bold;
+    padding: 20px 0;
+}
